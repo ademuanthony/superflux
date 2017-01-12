@@ -1,0 +1,4 @@
+# Ignore project folders
+.idea/
+vendor/
+release.py
