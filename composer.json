@@ -2,7 +2,7 @@
   "name" : "superflux",
   "description" : "Superlfux utils collections",
   "keywords": ["aws", "ses", "utils", "superflux", "mailer"],
-  "homepage": "https://blenyo@bitbucket.org/superfluxteam/superflus.git#readme",
+  "homepage": "https://github.com/ademuanthony/superflux.git#readme",
   "type": "library",
   "version" : "1.0.0",
   "authors": [
