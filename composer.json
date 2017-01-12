@@ -1,5 +1,5 @@
 {
-  "name" : "superflux",
+  "name" : "superflux-team/superflux",
   "description" : "Superlfux utils collections",
   "keywords": ["aws", "ses", "utils", "superflux", "mailer"],
   "homepage": "https://github.com/ademuanthony/superflux.git#readme",
