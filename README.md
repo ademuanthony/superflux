@@ -35,7 +35,7 @@ modify your composer.json
          ...
         {
             "type": "vcs",
-            "url":  " git@bitbucket.org:superfluxteam/superflus.git"
+            "url":  " https://github.com/ademuanthony/superflux.git"
         },
         ...
     ]
